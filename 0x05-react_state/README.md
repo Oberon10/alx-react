@@ -3,6 +3,8 @@
 ## Overview
 This project, titled "0x05. React state," In summary, a typical React project involves creating reusable components that manage their own state to dynamically update the user interface. These components receive data via props from parent components and can interact with APIs for data fetching. React applications utilize routing for navigation and can be styled using CSS or CSS-in-JS libraries. Testing ensures application reliability, and bundlers aid in deployment to web servers or platforms. Overall, React state management facilitates the creation of dynamic and responsive user interfaces in a declarative and efficient manner.
 
+# Authur's name: Prosper Benard Echebiri
+# email: prosperbernrad@gmail.com
 
 ## Learning Objectives
 By the end of this project, participants are expected to:
