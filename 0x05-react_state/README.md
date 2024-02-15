@@ -47,7 +47,3 @@ By the end of this project, participants are expected to:
 - Ensure proper styling changes when the checkbox is checked or unchecked
 - Follow React Hook guidelines, do not convert to a Class component
 
-
-
-## Copyright
-© 2024 ALX, All rights reserved.
